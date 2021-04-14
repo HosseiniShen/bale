@@ -1,0 +1,30 @@
+{
+  "name": "bale",
+  "version": "1.0.0",
+  "description": "pack tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HosseiniShen/bale.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HosseiniShen/bale/issues"
+  },
+  "homepage": "https://github.com/HosseiniShen/bale#readme",
+  "dependencies": {
+    "@types/babel-core": "^6.25.6",
+    "@types/babel-traverse": "^6.25.5",
+    "@types/babylon": "^6.16.5",
+    "@types/node": "^14.14.37",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-traverse": "^6.26.0",
+    "babylon": "^6.18.0"
+  }
+}
