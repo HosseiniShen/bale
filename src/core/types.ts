@@ -3,3 +3,8 @@ export interface moduleObject {
   deps: string[];
   code: string;
 }
+
+export interface BaleConfig {
+  entry: string;
+  output: string;
+}
